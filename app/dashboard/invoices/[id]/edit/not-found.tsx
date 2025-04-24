@@ -1,4 +1,5 @@
 import Link from 'next/link';
+// 24 代表 24px 的图标
 import { FaceFrownIcon } from '@heroicons/react/24/outline';
  
 export default function NotFound() {
